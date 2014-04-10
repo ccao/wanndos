@@ -1,0 +1,10 @@
+*.log
+*.mod
+*.o
+*.a
+*.dat
+*.dat.bz2
+*.x
+*.tar.bz2
+*.swp
+make.sys
